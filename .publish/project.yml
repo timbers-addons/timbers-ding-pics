@@ -1,0 +1,17 @@
+name: Timber's Ding Pics
+summary: Automatically take a screenshot when you level-up or, optionally, die
+logo: Docs/cover.png
+license: gpl-3.0-only
+curseforge:
+    project_id: "1477616"
+    project_name: Timber's Ding Pics
+    slug: TimbersDingPics
+    logo: Docs/cover.png
+    summary: Automatically take a screenshot when you level-up or, optionally, die
+    main_category: Quests & Leveling
+    additional_categories:
+        - Miscellaneous
+    allow_comments: true
+    project_distribution: allow
+    source_code: not-public
+    automatic_packaging: no-automatic-packaging
