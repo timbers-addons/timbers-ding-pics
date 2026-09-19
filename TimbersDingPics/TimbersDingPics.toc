@@ -2,7 +2,7 @@
 ## Title: Timber's Ding Pics
 ## Notes: Automatically take a screenshot when you level-up or, optionally, die
 ## Author: Timberwind-DreamscytheUS
-## Version: v2026.07.07
+## Version: v2026.09.19
 ## DefaultState: Enabled
 ## SavedVariables: TimbersDingPicsDB
 ## X-License: gpl-3.0-only
