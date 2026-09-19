@@ -1,4 +1,4 @@
-## Interface: 11508, 20506
+## Interface: 11509, 16001, 20506
 ## Title: Timber's Ding Pics
 ## Notes: Automatically take a screenshot when you level-up or, optionally, die
 ## Author: Timberwind-DreamscytheUS
