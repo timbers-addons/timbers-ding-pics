@@ -1,0 +1,11 @@
+package-as: TimbersDingPics
+
+ignore:
+    - Docs
+
+move-folders:
+    TimbersDingPics/TimbersDingPics: TimbersDingPics
+
+manual-changelog:
+    filename: CHANGELOG.md
+    markup-type: markdown
